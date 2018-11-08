@@ -32,13 +32,13 @@ This work doesn't specifically fit in the OSSU CS curriculum, but it prepared me
 
 Status | School | Course # | Course | Completion Date | Proof
 :--: | :--: | :--: | :--: | :--: | :--:
- **Complete** | GTx | CS1301I | [Computing In Python, Part I: Fundamentals and Procedural Programming](https://www.edx.org/course/computing-in-python-i-fundamentals-and-procedural-programming-0) | Aug 08 2018 |
- **Complete** | GTx | CS1301II | [Computing In Python, Part II: Control Structures](https://www.edx.org/course/computing-in-python-ii-control-structures-0) | Aug 10 2018 |
- **Complete** | GTx | CS1301III | [Computing In Python, Part III: Data Structures](https://www.edx.org/course/computing-in-python-iii-data-structures-0) | Aug 17 2018 |
- **Complete** | GTx | CS1301IV | [Computing In Python, Part IV: Objects & Algorithms](https://www.edx.org/course/computing-in-python-iv-objects-algorithms-0) | Aug 31 2018 |
- *In Progress* | HarvardX | PH526x | [Using Python for Research](https://www.edx.org/course/using-python-for-research) |    |
- *In Progress* | MITx | 6.00.2x | [Computational Thinking and Data Science](https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-7) |    |
- *In Progress* | MicrosoftX | DAT268x | [Data Visualization - A Practical Approach for Absolute Beginners](https://www.edx.org/course/data-visualization-practical-approach-absolute-beginners-1) |    |
+ **Complete** | GTx | CS1301 I | [Computing In Python, Part I: Fundamentals and Procedural Programming](https://www.edx.org/course/computing-in-python-i-fundamentals-and-procedural-programming-0) | Aug 08 2018 | -
+ **Complete** | GTx | CS1301 II | [Computing In Python, Part II: Control Structures](https://www.edx.org/course/computing-in-python-ii-control-structures-0) | Aug 10 2018 | -
+ **Complete** | GTx | CS1301 III | [Computing In Python, Part III: Data Structures](https://www.edx.org/course/computing-in-python-iii-data-structures-0) | Aug 17 2018 | -
+ **Complete** | GTx | CS1301 IV | [Computing In Python, Part IV: Objects & Algorithms](https://www.edx.org/course/computing-in-python-iv-objects-algorithms-0) | Aug 31 2018 | -
+ *In Progress* | HarvardX | PH526x | [Using Python for Research](https://www.edx.org/course/using-python-for-research) |    | -
+ *In Progress* | MITx | 6.00.2x | [Computational Thinking and Data Science](https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-7) |    | -
+ *In Progress* | MicrosoftX | DAT268x | [Data Visualization - A Practical Approach for Absolute Beginners](https://www.edx.org/course/data-visualization-practical-approach-absolute-beginners-1) |    | -
 
 ## Introduction to Computer Science
 Course # | School | Course | Completion Date | Proof | Repository

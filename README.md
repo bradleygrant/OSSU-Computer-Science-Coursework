@@ -15,7 +15,7 @@
   - [Final Project](#final-project)
 
 # Summary
-My name is Bradley Grant, and in fall of 2018 I became a student of the Open Source Society Univerity.
+My name is Bradley Grant, and in summer of 2018 I became a student of the Open Source Society Univerity.
 This repository tracks my progress through the [OSSU Computer Science curriculum](https://github.com/ossu/computer-science). My work is tracked in private repositories, where applicable, so that no honor policies are broken.
 
 OSSU describes the program as:
@@ -30,15 +30,15 @@ Course numbers in **bold** have been completed. Course numbers in *italics* are 
 ## Preliminaries, Extras, and Outside-Curriculum Work
 This work doesn't specifically fit in the OSSU CS curriculum, but it prepared me for future courses or personally interested me. They are included here for reference.
 
-Status | School | Course | Completion Date | Proof | Repository
+Status | School | Course # | Course | Completion Date | Proof
 :--: | :--: | :--: | :--: | :--: | :--:
- **Complete** | GTx | [Computing In Python, Part I: Fundamentals and Procedural Programming](https://www.edx.org/course/computing-in-python-i-fundamentals-and-procedural-programming-0) |    |    |
- **Complete** | GTx | [Computing In Python, Part II: Control Structures](https://www.edx.org/course/computing-in-python-ii-control-structures-0) |    |    |
- **Complete** | GTx | [Computing In Python, Part III: Data Structures](https://www.edx.org/course/computing-in-python-iii-data-structures-0) |    |    |
- **Complete** | GTx | [Computing In Python, Part IV: Objects & Algorithms](https://www.edx.org/course/computing-in-python-iv-objects-algorithms-0) |    |    |
- *Working* | HarvardX | [PH526x: Using Python for Research](https://www.edx.org/course/using-python-for-research) |    |    |
- *Working* | MITx | [6.00.2x: Computational Thinking and Data Science](https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-7) |    |    |
- *Working* | MicrosoftX | [DAT268x: Data Visualization - A Practical Approach for Absolute Beginners](https://www.edx.org/course/data-visualization-practical-approach-absolute-beginners-1) |    |    |
+ **Complete** | GTx | CS1301I | [Computing In Python, Part I: Fundamentals and Procedural Programming](https://www.edx.org/course/computing-in-python-i-fundamentals-and-procedural-programming-0) | Aug 08 2018 |
+ **Complete** | GTx | CS1301II | [Computing In Python, Part II: Control Structures](https://www.edx.org/course/computing-in-python-ii-control-structures-0) | Aug 10 2018 |
+ **Complete** | GTx | CS1301III | [Computing In Python, Part III: Data Structures](https://www.edx.org/course/computing-in-python-iii-data-structures-0) | Aug 17 2018 |
+ **Complete** | GTx | CS1301IV | [Computing In Python, Part IV: Objects & Algorithms](https://www.edx.org/course/computing-in-python-iv-objects-algorithms-0) | Aug 31 2018 |
+ *In Progress* | HarvardX | PH526x | [Using Python for Research](https://www.edx.org/course/using-python-for-research) |    |
+ *In Progress* | MITx | 6.00.2x | [Computational Thinking and Data Science](https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-7) |    |
+ *In Progress* | MicrosoftX | DAT268x | [Data Visualization - A Practical Approach for Absolute Beginners](https://www.edx.org/course/data-visualization-practical-approach-absolute-beginners-1) |    |
 
 ## Introduction to Computer Science
 Course # | School | Course | Completion Date | Proof | Repository

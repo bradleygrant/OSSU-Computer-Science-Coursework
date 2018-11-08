@@ -29,6 +29,7 @@ Course numbers in **bold** have been completed. Course numbers in *italics* are 
 
 ## Preliminaries, Extras, and Outside-Curriculum Work
 This work doesn't specifically fit in the OSSU CS curriculum, but it prepared me for future courses or personally interested me. They are included here for reference.
+
 Status | School | Course | Completion Date | Proof | Repository
 :--: | :--: | :--: | :--: | :--: | :--:
  **Complete** | GTx | [Computing In Python, Part I: Fundamentals and Procedural Programming](https://www.edx.org/course/computing-in-python-i-fundamentals-and-procedural-programming-0) |    |    |

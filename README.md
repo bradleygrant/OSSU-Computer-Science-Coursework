@@ -8,7 +8,6 @@
 
 # Contents
 - [Summary](#summary)
-- [Template](#template)
 - [Progress](#progress)
   - [Introduction to Computer Science](#introduction-to-computer-science)
   - [Core CS](#core-cs)
@@ -16,7 +15,8 @@
   - [Final Project](#final-project)
 
 # Summary
-This repository tracks my progress through the [OSSU Computer Science curriculum](https://github.com/ossu/computer-science). My work is tracked in private repositories, where applicable, so that no honour policies are broken.
+My name is Bradley Grant, and in fall of 2018 I became a student of the Open Source Society Univerity.
+This repository tracks my progress through the [OSSU Computer Science curriculum](https://github.com/ossu/computer-science). My work is tracked in private repositories, where applicable, so that no honor policies are broken.
 
 OSSU describes the program as:
 
@@ -24,28 +24,39 @@ OSSU describes the program as:
 >
 >It is designed according to the degree requirements of undergraduate computer science majors, minus general education (non-CS) requirements, as it is assumed most of the people following this curriculum are already educated outside the field of CS.
 
-# Template
-If you would like to fork this repository to track your own progress please find the blank template [here](TEMPLATE.md). Please note it is still a work in progress.
-
 # Progress
+Course numbers in **bold** have been completed. Course numbers in *italics* are currently in progress.
+
+## Preliminaries, Extras, and Outside-Curriculum Work
+This work doesn't specifically fit in the OSSU CS curriculum, but it prepared me for future courses or personally interested me. They are included here for reference.
+Status | School | Course | Completion Date | Proof | Repository
+:--: | :--: | :--: | :--: | :--: | :--:
+ **Complete** | GTx | [Computing In Python, Part I: Fundamentals and Procedural Programming](https://www.edx.org/course/computing-in-python-i-fundamentals-and-procedural-programming-0) |    |    |    |
+ **Complete** | GTx | [Computing In Python, Part II: Control Structures](https://www.edx.org/course/computing-in-python-ii-control-structures-0) |    |    |    |
+ **Complete** | GTx | [Computing In Python, Part III: Data Structures](https://www.edx.org/course/computing-in-python-iii-data-structures-0) |    |    |    |
+ **Complete** | GTx | [Computing In Python, Part IV: Objects & Algorithms](https://www.edx.org/course/computing-in-python-iv-objects-algorithms-0) |    |    |    |
+ *Working* | HarvardX | [PH526x: Using Python for Research](https://www.edx.org/course/using-python-for-research) |    |    |    |
+ *Working* | MITx | [6.00.2x: Computational Thinking and Data Science](https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-7) |    |    |    |
+ *Working* | MicrosoftX | [DAT268x: Data Visualization - A Practical Approach for Absolute Beginners](https://www.edx.org/course/data-visualization-practical-approach-absolute-beginners-1) |    |    |    |
+
 ## Introduction to Computer Science
 Course # | School | Course | Completion Date | Proof | Repository
 :--: | :--: | :--: | :--: | :--: | :--:
-1 | MITx | [Introduction to Computer Science and Programming using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10) | 2018/01 | [edX Progress Page](https://github.com/t-miller/OSSU-Computer-Science-Coursework/blob/master/Proofs/2.PNG) | [Bitbucket](https://bitbucket.org/t-miller/6.00.1x-intro-to-computer-science)
+**1** | MITx | [Introduction to Computer Science and Programming using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10) | Nov 01 2018 | [-]() | [-]()
 
 ## Core CS
 ### Core Programming
 Course # | School | Course | Completion Date | Proof | Repository
 :--: | :--: | :--: | :--: | :--: | :--:
-2 | UBCx | [How to Code: Simple Data](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x) | 2018/03 | [edX Progress Page](https://github.com/t-miller/OSSU-Computer-Science-Coursework/blob/master/Proofs/3_HtC1x_Proof.PNG) | [Bitbucket](https://bitbucket.org/t-miller/how-to-code-simple-data)  
-3 |  UBCx | [How to Code: Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x)  | In progress  | -  |  [Bitbucket](https://bitbucket.org/t-miller/how-to-code-complex-data)
-4 |  UBCx | [Software Construction: Data Abstraction](https://www.edx.org/course/software-construction-data-abstraction-ubcx-softconst1x)  | 2018/09  | [edX Progress Page](https://github.com/t-miller/OSSU-Computer-Science-Coursework/blob/master/Proofs/5_SoftConst1x_Proof.png)  | [Control and Data Flow Lecture Starters (GitHub)](https://github.com/t-miller/control-and-data-flow-lecture-starters)<br><br>[Data Abstraction Lecture Starters (Github)](https://github.com/t-miller/data-abstraction-lecture-starters)<br><br>[Data Abstraction Practice Projects (GitHub)](https://github.com/t-miller/data-abstraction-practice-projects)<br><br>[Long Form Problem Starters (GitHub)](https://github.com/t-miller/long-form-problem-starters)<br><br>[Private Coursework (Bitbucket)](https://bitbucket.org/t-miller/software-construction-data-abstraction/src/develop/)
-5 | UBCx  | [Software Construction: Object-Oriented Design](https://www.edx.org/course/software-construction-object-oriented-ubcx-softconst2x)  |  In progress | - | [Long Form Problem Starters (GitHub)](https://github.com/t-miller/long-form-problem-starters-1)<br><br> [Robust Classes Lecture Starters (GitHub)](https://github.com/t-miller/robust-classes-lecture-starters)  
+*2*  | UBCx | [How to Code: Simple Data](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x) | In Progress from Nov 06 2018 | [-]() | [-]()
+3  |  UBCx | [How to Code: Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x)  | - | - |  [-]()
+4  |  UBCx | [Software Construction: Data Abstraction](https://www.edx.org/course/software-construction-data-abstraction-ubcx-softconst1x)  | - | - | [-]()
+5  | UBCx  | [Software Construction: Object-Oriented Design](https://www.edx.org/course/software-construction-object-oriented-ubcx-softconst2x)  |  - |-   |-
 6  | University of Washington  | [Programming Languages, Part A](https://www.coursera.org/learn/programming-languages)  | -  | -  | -
 7  | University of Washington  |  [Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b)  | -  | -  |  -
 8  | University of Washington  | [Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c)  | -  | -  | -
 9 | - | [Learn You a Haskell for a Great Good! by Miran Lipovača](http://learnyouahaskell.com/chapters) | - | - | -
-10 | - | [Learn Prolog Now! by Patrick Blackburn, Johan Bos, and Kristina Striegnitz](http://lpn.swi-prolog.org/lpnpage.php?pageid=online) | In progress | - | [Github](https://github.com/t-miller/learn-prolog-now)
+10 | - | [Learn Prolog Now! by Patrick Blackburn, Johan Bos, and Kristina Striegnitz](http://lpn.swi-prolog.org/lpnpage.php?pageid=online) | - | - | [-]()
 
 ### Core Math
 Course # | School | Course | Completion Date | Proof | Repository
@@ -60,7 +71,7 @@ Course # | School | Course | Completion Date | Proof | Repository
 ### Core Systems
 Course # | School | Course | Completion Date | Proof | Repository
 :--: | :--: | :--: | :--: | :--: | :--:
-17 | HarvardX | [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) | In progress | - | [Github](https://github.com/submit50/t-miller)
+*17* | HarvardX | [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) | In Progress from Jul 01 2018 | - | [-]()
 18 | Hebrew University of Jerusalem | [Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer) | - | - | -
 19 | Hebrew University of Jerusalem | [Build a Modern Computer from First Principles: Nand to Tetris Part II](https://www.coursera.org/learn/nand2tetris2) | - | - | -
 20 | Stanford Lagunita | [Introduction to Computer Networking](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about) | - | - | -
